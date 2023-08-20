@@ -8,7 +8,7 @@ kind of site(personal website, blog, etc).
 
 # Preview
 
-![doc-site](.github/assets/doc-site-example-dark.jpg)
+![docp-site](.github/assets/doc-site-example-dark.jpg)
 
 ## Get Rolling
 
